@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there! 👋
+
+I'm a Junior Software Developer based in Dorset.
+
+🌱 I’m currently learning HTML, CSS/SCSS, Javascript, React.js and Java on a 12-week intensive course.
+
 
 <!--
 **ymasn96/ymasn96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
