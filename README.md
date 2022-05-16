@@ -1,8 +1,13 @@
 ### Hello there! 👋
 
-I'm a Junior Software Developer based in Dorset.
+I'm a Junior Software Developer based in London.
 
-🌱 I’m currently learning HTML, CSS/SCSS, Javascript, React.js and Java on a 12-week intensive course.
+🌱 Stack I am familiar with: 
+ 
+HTML, CSS/SCSS, Javascript, React.js 
+Java, Spring Boot, MySQL
+AWS, GCP
+Selenium & Cucumber testing
 
 
 <!--
