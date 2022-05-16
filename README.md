@@ -1,13 +1,5 @@
 ### Hello there! 👋
 
-I'm a Junior Software Developer based in London.
-
-🌱 Stack I am familiar with: 
- 
-HTML, CSS/SCSS, Javascript, React.js, 
-Java, Spring Boot, MySQL
-AWS, GCP,
-Selenium & Cucumber testing
 
 
 <!--
